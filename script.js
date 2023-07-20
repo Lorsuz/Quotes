@@ -78,7 +78,7 @@ var quotes = [
 `Good things come for those who expect, bigger things come to those who get up and do anything for that to happen!`,
 `I do not regret the things I did, I'm sorry the things I did not do when I had the chance!`,
 `Attention is given as received!`,
-`Se ninguém é bom o suficiente pra vc, seja essa pessoa`,
+`If no one is good enough for you, then be that person!`,
 `Your limit? Who said what your limit is? Instead of thinking about a lot of bullshit ... because you do not use your strength to move on!`,
 `Challenges are what makes life interesting and overcoming them is what makes life meaningful!`,
 `To succeed, your successful desire should be greater than your fear of failure!`,
