@@ -133,8 +133,9 @@ init()
 
 function init() {	
 	showQuote()
-	randomColor()
 }
+randomColor()
+setInterval(randomColor, 5000)
 
 function showQuote() {
 	var newNumberQuote = randomNumber()
