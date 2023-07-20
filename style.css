@@ -26,15 +26,15 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	position: fixed;
+	/* position: fixed; */
   top: 50%;
-	transform: translateY(-50%);
+	/* transform: translateY(-50%); */
 	padding: 0 10%;
 	z-index: 10;
-	transition: 300ms all ease-in-out;
+	transition: 300ms ease-in-out;
 }
 .container *{
-	transition: all 1000ms ease-in-out;
+	transition: 1000ms ease-in-out;
 }
 
 blockquote {
@@ -63,7 +63,7 @@ button {
 	box-shadow: 0 0 10px var(--color);
 	cursor: pointer;
 	user-select: none;
-	transition: 300ms all ease-in-out;
+	transition: 300ms ease-in-out !important;
 
 }
 button:hover{
@@ -75,6 +75,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
+	position: absolute;
 }
 
 .brilho {
